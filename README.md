@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Mohamed Mamdouh 👋
 
-<!--
-**mohammedmmdoh24567-21/mohammedmmdoh24567-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Student | Python & C++ Developer
 
-Here are some ideas to get you started:
+🎓 Artificial Intelligence Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Programming, Artificial Intelligence, and Technology.
+
+🌱 Currently learning Python and C++.
+
+🚀 Working on improving my programming skills and building practical projects.
+
+🛠️ Technologies & Skills
+
+- Python
+- C++
+- Artificial Intelligence
+- Problem Solving
+
+📂 My Projects
+
+- Python Exam System: A project for creating and managing exams using Python.
+
+🎯 My Goals
+
+- Improve my programming skills.
+- Learn Machine Learning and AI.
+- Build real-world projects.
+- Become a professional AI Engineer.
+
+🤝 Let's Connect
+
+- GitHub: "Mohamed Mamdouh" (https://github.com/mohammedmmdoh24567-21)
+
+---
+
+⭐ Keep Learning. Keep Building. Keep Growing!
